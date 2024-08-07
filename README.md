@@ -14,9 +14,10 @@ Bottom mount
 Required Hardware:
 1. Frog mini plate.
 2. 8x Geon tadpoles.
-3. 6x M3 Heat set inserts.
-4. 6x M3x10 socket head hex screws.
-5. 8mm bumpons/feet.
+3. GH60 PCB with USB-C on the left.
+4. 6x M3 Heat set inserts.
+5. 6x M3x10 socket head hex screws.
+6. 8mm bumpons/feet.
 
 ![Photo2](mounting.jpg?raw=true)
 
