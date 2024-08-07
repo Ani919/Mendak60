@@ -17,3 +17,7 @@ Required Hardware:
 3. 6x M3 Heat set inserts.
 4. 6x M3x10 socket head hex screws.
 5. 8mm bumpons/feet.
+
+![Photo2](mounting.jpg?raw=true)
+
+DISCLAIMER: This design has some very tight tolerances for the tadpole/mounting holes, how well it fits together depends on your printer and its settings. Your mileage may vary.
